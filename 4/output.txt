@@ -1,0 +1,6 @@
+Filled container. 
+List contents 2 elements.
+0: This is a Airplane, its' speed is: 2 distance: 3 distance of flight 4 weight of cargo: 5
+1: This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+Empty container: 
+List contents 0 elements.

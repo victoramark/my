@@ -1,0 +1,73 @@
+Filled container. 
+List contents 5 elements.
+0: This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+1: This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+2: This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+3: This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+4: This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+Start Multimethod out
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+
+This pair is Airplane with Train
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+
+This pair is Airplane with Train
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+This pair is Train with Train
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+
+This pair is Train with Airplane
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+
+This pair is Train with Train
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+
+This pair is Train with Airplane
+This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+
+This pair is Airplane with Train
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+This pair is Train with Train
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+
+This pair is Train with Airplane
+This is a Train, its' speed is: 2 distance: 22 number of wagons: 1
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+This pair is Airplane with Airplane
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+
+End Multimethod out
+Empty container: 
+List contents 0 elements.

@@ -1,0 +1,8 @@
+Filled container. 
+List contents 5 elements.
+Outputting only class Airplane
+This is a Airplane, its' speed is: 3 distance: 6 distance of flight 4 weight of cargo: 5
+This is a Airplane, its' speed is: 2 distance: 1 distance of flight 4 weight of cargo: 1
+This is a Airplane, its' speed is: 22 distance: 2 distance of flight 3 weight of cargo: 2
+Empty container: 
+List contents 0 elements.

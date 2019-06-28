@@ -1,0 +1,4 @@
+Filled container. 
+Container contains 2 elements.
+1: This is a Airplane, its' speed is: 5 distance: 5 distance of flight 5 weight of cargo: 5
+2: This is a Train, its' speed is: 3 distance: 4 number of wagons: 5
